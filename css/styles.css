@@ -29,14 +29,23 @@ h3 {
 
 a {
   font-family: 'Montserrat', sans-serif;
-  font-size: 18px;
   color: #11999E;
-  margin: 10px 20px;
-  text-decoration: none;
 }
 
 a:hover {
   color: #EAF6F6;
+}
+
+.contact-me a {
+  font-size: 18px;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.bottom-container a {
+  font-size: 18px;
+  margin: 10px 20px;
+  text-decoration: none;
 }
 
 hr {
